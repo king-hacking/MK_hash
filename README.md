@@ -1,5 +1,13 @@
 # MK_hash
 
+لتواصل معي:
+
+Whatsapp: 00963937376654
+
+FACEBOOK: KING.HACKING.SY
+
+TELEGRAM: HACKEER1
+
 
 الاداة متخصصة في مجال الهاشات وتقسم الى ثلاث اقسام:
 
