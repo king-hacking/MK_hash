@@ -1,4 +1,10 @@
-# MK_hash
+<h1 align="center">
+  <br>
+  ![c](https://e.top4top.net/p_1197ggtsn1.jpg)
+  <br>
+  MK_hash
+  <br>
+</h1>
 
 لتواصل معي:
 
@@ -21,8 +27,8 @@ TELEGRAM: HACKEER1
 
 الاوامر:
 
+```
 git clone https://github.com/king-hacking/MK_hash.git
-
 cd MK_hash
-
 python3 MK_hash.py
+```
