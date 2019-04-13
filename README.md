@@ -1,15 +1,7 @@
-<h1 align="center">
-  MK_hash
-  <br>
-</h1>
-![c](https://e.top4top.net/p_1197ggtsn1.jpg)
-لتواصل معي:
+# MK_hach
 
-Whatsapp: 00963937376654
 
-FACEBOOK: KING.HACKING.SY
-
-TELEGRAM: HACKEER1
+![curl](https://e.top4top.net/p_1197ggtsn1.jpg)
 
 
 الاداة متخصصة في مجال الهاشات وتقسم الى ثلاث اقسام:
@@ -23,9 +15,13 @@ TELEGRAM: HACKEER1
 الاداة مبرمجة بلغة البايثون💚
 
 الاوامر:
-
+## Command Installing:
 ```
 git clone https://github.com/king-hacking/MK_hash.git
 cd MK_hash
 python3 MK_hash.py
 ```
+## My Acctions
+* [Whatsapp](https://wm.com/00963937376654)
+* [FACEBOOK](https://www.facebook.com/KING.HACKING.SY)
+* [TELEGRAM](https://t.me/HACKEER1)
