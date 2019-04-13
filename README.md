@@ -1,9 +1,9 @@
 #                    MK_hach
 
 **Minu**
-1* Make Hash
-2* Type Hash
-3* Cracking Hash
+* Make Hash
+* Type Hash
+* Cracking Hash
 ![curl](https://e.top4top.net/p_1197ggtsn1.jpg)
 
 **Command Installing:**
