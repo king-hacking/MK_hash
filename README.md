@@ -1,4 +1,4 @@
-#                    MK_hach
+#                    MK_hash
 
 **Minu**
 * Make Hash
